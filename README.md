@@ -11,6 +11,8 @@ If you find any category missing or needing updates, please refer to our [contri
 
 - [Climate & Weather](/datasets/climate-weather)
 - [Soil & Terrain](/datasets/soil)
+- [Crop Extent](/datasets/crop-extent)
+- [Crop Identification](datasets/crop-id)
 - [Crop Yields](/datasets/yield)
 - [Geospatial & Remote Sensing](/datasets/geospatial)
 - [Pests & Diseases](/datasets/pest-diseases)
