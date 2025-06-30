@@ -17,6 +17,7 @@ If you find any category missing or needing updates, please refer to our [contri
 - [Geospatial & Remote Sensing](/datasets/geospatial)
 - [Pests & Diseases](/datasets/pest-diseases)
 - [Vector & Shapefiles](/datasets/vector)
+- [Demand, Pricing and Market](/datasets/market)
 
 ---
 
