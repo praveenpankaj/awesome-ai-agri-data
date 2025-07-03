@@ -9,48 +9,48 @@ If you find any category missing or needing updates, please refer to our [contri
 
 ## 📊 Dataset Categories
 
-- [Climate & Weather](/datasets/climate-weather)
-- [Soil & Terrain](/datasets/soil)
-- [Crop Extent](/datasets/crop-extent)
-- [Crop Identification](datasets/crop-id)
-- [Crop Yields](/datasets/yield)
-- [Geospatial & Remote Sensing](/datasets/geospatial)
-- [Pests & Diseases](/datasets/pest-diseases)
-- [Vector & Shapefiles](/datasets/vector)
-- [Demand, Pricing and Market](/datasets/market)
+- [Climate & Weather](/datasets/climate-weather.md)
+- [Soil & Terrain](/datasets/soil.md)
+- [Crop Extent](/datasets/crop-extent.md)
+- [Crop Identification](datasets/crop-id.md)
+- [Crop Yields](/datasets/yield.md)
+- [Geospatial & Remote Sensing](/datasets/geospatial.md)
+- [Pests & Diseases](/datasets/pest-diseases.md)
+- [Vector & Shapefiles](/datasets/vector.md)
+- [Demand, Pricing and Market](/datasets/market.md)
 
 ---
 
 ## 📘 Domain Knowledge
 
-- [Crop Calendars](/knowledge/crop-calendar)
-- [Crops & Varieties](/knowledge/crops)
-- [Soil Properties](/knowledge/soil-properties)
+- [Crop Calendars](/knowledge/crop-calendar.md)
+- [Crops & Varieties](/knowledge/crops.md)
+- [Soil Properties](/knowledge/soil-properties.md)
 
 ---
 
 ## 🧠 Models
 
-- [Proximal Imaging Models](/datasets/proximal)
-- [Geospatial Foundation Models](/datasets/gfm)
-- [Large Language Models (LLMs)](/datasets/llm)
-- [Scientific & Process-Based Models](/datasets/process)
+- [Proximal Imaging Models](/datasets/proximal.md)
+- [Geospatial Foundation Models](/datasets/gfm.md)
+- [Large Language Models (LLMs)](/datasets/llm.md)
+- [Scientific & Process-Based Models](/datasets/process.md)
 
 ---
 
 ## 🛠️ Software Tools
 
-- [Geospatial Software](/datasets/geosoft)
-- [Imaging & Hyperspectral Software](/datasets/imagingsoft)
+- [Geospatial Software](/datasets/geosoft.md)
+- [Imaging & Hyperspectral Software](/datasets/imagingsoft.md)
 
 ---
 
 ## 🤖 IoT, Sensors, Robotics & Machinery
 
-- [IoT Platforms](/datasets/iot)
-- [Agricultural Sensors](/datasets/sensors)
-- [Field Robotics](/datasets/robotics)
-- [Farming Machinery](/datasets/machines)
+- [IoT Platforms](/datasets/iot.md)
+- [Agricultural Sensors](/datasets/sensors.md)
+- [Field Robotics](/datasets/robotics.md)
+- [Farming Machinery](/datasets/machines.md)
 
 ---
 
