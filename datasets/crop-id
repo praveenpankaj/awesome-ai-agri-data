@@ -1,8 +1,3 @@
----
-title: Crop Identification Datasets
-layout: default
----
-
 # 🌾 Crop Identification Datasets
 
 Datasets with crop labels and ground truth used for crop classification from satellite or drone imagery.
