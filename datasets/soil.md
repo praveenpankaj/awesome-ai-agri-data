@@ -2,8 +2,8 @@
 
 Includes datasets and knowledge bases about soil chemistry, texture, and classification.
 
-| Dataset | Source | Description |
-|---------|--------|-------------|
+| Dataset | Source | Description | Link |
+|---------|--------|-------------|-------------|
 | **SoilGrids** | ISRIC | Global gridded soil database | [soilgrids.org](https://soilgrids.org) |
 | **Soil Health Card** | India | Soil Health Card | [Soil Health Card](https://soilhealth.dac.gov.in/dashboard) |
 
