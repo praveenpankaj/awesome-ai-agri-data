@@ -59,7 +59,6 @@ If you find any category missing or needing updates, please refer to our [contri
 If you use or refer to this repository, please cite it as:
 
 <div>
-  <button onclick="copyBibTeX()">📋 Copy Citation</button>
   <pre id="bibtex">
 @MISC{agridata,
   author       = {Praveen Pankajakshan},
@@ -69,14 +68,6 @@ If you use or refer to this repository, please cite it as:
 }
   </pre>
 </div>
-
-<script>
-function copyBibTeX() {
-  var text = document.getElementById("bibtex").innerText;
-  navigator.clipboard.writeText(text);
-  alert("Citation copied to clipboard!");
-}
-</script>
 
 
 ## 📄 License & Disclaimer
