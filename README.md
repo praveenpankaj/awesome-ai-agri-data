@@ -1,4 +1,4 @@
-# 🌾 Agriculture Datasets & Knowledge Hub
+# 🌾 Awesom AI Agriculture Datasets (& Knowledge Hub)
 
 This is a curated collection of datasets, models, software tools, and domain knowledge for researchers, data scientists, agronomists, policy makers, and practitioners in the agriculture domain.
 
@@ -54,22 +54,6 @@ If you find any category missing or needing updates, please refer to our [contri
 
 ---
 
-## 📚 Citation
-
-If you use or refer to this repository, please cite it as:
-
-<div>
-  <pre id="bibtex">
-@MISC{agridata,
-  author       = {Praveen Pankajakshan},
-  title        = {{Awesome AI Agri Data}},
-  howpublished = "\url{https://github.com/praveenpankaj/awesome-ai-agri-data}",
-  year         = {2025},
-}
-  </pre>
-</div>
-
-
 ## 📄 License & Disclaimer
 
 All datasets belong to their rightful owners.  
@@ -77,3 +61,17 @@ This site and its contributors are not responsible for any copyright or attribut
 We aim to reference official sources wherever possible and welcome corrections.
 
 ---
+
+## 📚 Citation
+
+If you use or refer to this repository, please cite it as:
+
+```markdown
+@MISC{agridata,
+  author       = {Praveen Pankajakshan},
+  title        = {{Awesom AI Agriculture Datasets}},
+  howpublished = "\url{https://github.com/praveenpankaj/awesome-ai-agri-data}",
+  year         = {2025},
+}
+
+
