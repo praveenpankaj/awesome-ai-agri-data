@@ -54,6 +54,31 @@ If you find any category missing or needing updates, please refer to our [contri
 
 ---
 
+## 📚 Citation
+
+If you use or refer to this repository, please cite it as:
+
+<div>
+  <button onclick="copyBibTeX()">📋 Copy Citation</button>
+  <pre id="bibtex">
+@MISC{agridata,
+  author       = {Praveen Pankajakshan},
+  title        = {{Awesome AI Agri Data}},
+  howpublished = "\url{https://github.com/praveenpankaj/awesome-ai-agri-data}",
+  year         = {2025},
+}
+  </pre>
+</div>
+
+<script>
+function copyBibTeX() {
+  var text = document.getElementById("bibtex").innerText;
+  navigator.clipboard.writeText(text);
+  alert("Citation copied to clipboard!");
+}
+</script>
+
+
 ## 📄 License & Disclaimer
 
 All datasets belong to their rightful owners.  
