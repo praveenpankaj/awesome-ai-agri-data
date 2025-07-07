@@ -1,4 +1,4 @@
-# 🧪 Soil Properties
+# 🧪 Soil
 
 Includes datasets and knowledge bases about soil chemistry, texture, and classification.
 
