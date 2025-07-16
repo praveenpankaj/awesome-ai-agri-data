@@ -10,7 +10,7 @@ This page lists open datasets related to weather, precipitation, temperature, hu
 | **CHIRPS** | Precipitation time series from 1981 | GeoTIFF, CSV | [CHC UCSB](https://www.chc.ucsb.edu/data/chirps) |
 | **IMD Gridded Data** | Indian rainfall and temperature grids | NetCDF | [IMD Pune](https://www.imdpune.gov.in/) |
 | **NASA POWER** | Agro-meteorological datasets for energy and agriculture | CSV, JSON API | [POWER](https://power.larc.nasa.gov/) |
-| **OpenMeteo** | Open-Meteo is an open-source weather API and offers free access for non-commercial use | 
+| **OpenMeteo** | Open-Meteo is an open-source weather API and offers free access for non-commercial use | [Open-Meteo](https://open-meteo.com/)
 
 ## 📘 Usage
 
