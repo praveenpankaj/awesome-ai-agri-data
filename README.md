@@ -1,4 +1,4 @@
-# 🌾 Awesom AI Agriculture Datasets (& Knowledge Hub)
+# 🌾 Awesome AI Agriculture Datasets (& Knowledge Hub)
 
 This is a curated collection of datasets, models, software tools, and domain knowledge for researchers, data scientists, agronomists, policy makers, and practitioners in the agriculture domain.
 
